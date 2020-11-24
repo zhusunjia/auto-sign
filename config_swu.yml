@@ -34,7 +34,6 @@ cpdaily:
 - default:
       title: 今天上午体温度数
       value: 36.5
-
 - default:
       title: 今天下午体温度数
       value: 36.5
